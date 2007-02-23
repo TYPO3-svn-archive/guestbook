@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'guestbook'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tx_guestbook_comment">Comment</label>
+			<label index="tx_guestbook_comment.author">Author</label>
+			<label index="tx_guestbook_comment.author_email">E-mail</label>
+			<label index="tx_guestbook_comment.author_url">URL</label>
+			<label index="tx_guestbook_comment.author_ip">IP</label>
+			<label index="tx_guestbook_comment.content">Comment</label>
+			<label index="tx_guestbook_comment.karma">Karma</label>
+			<label index="tx_guestbook_comment.agent">User-Agent</label>
+			<label index="tx_guestbook_comment.type">Type</label>
+			<label index="tt_content.list_type_pi1">Guestbook / Comment List</label>
+			<label index="tt_content.list_type_pi2">Guetbook / Comment Form</label>
+			<label index="moduleFunction.tx_guestbook_modfunc1">Comment Manager</label>
+		</languageKey>
+		<languageKey index="de" type="array">
+			<label index="tx_guestbook_comment">Kommentar</label>
+			<label index="tx_guestbook_comment.author">Autor</label>
+			<label index="tx_guestbook_comment.author_email">E-Mail</label>
+			<label index="tx_guestbook_comment.author_url">URL</label>
+			<label index="tx_guestbook_comment.author_ip">IP</label>
+			<label index="tx_guestbook_comment.content">Kommentar</label>
+			<label index="tx_guestbook_comment.karma">Karma</label>
+			<label index="tx_guestbook_comment.agent">User-Agent</label>
+			<label index="tx_guestbook_comment.type">Typ</label>
+			<label index="tt_content.list_type_pi1">Gästebuch / Kommentarliste</label>
+			<label index="tt_content.list_type_pi2">Gästebuch / Kommentar Formular</label>
+			<label index="moduleFunction.tx_guestbook_modfunc1">Kommentar Manager</label>
+		</languageKey>
+	</data>
+</T3locallang>
