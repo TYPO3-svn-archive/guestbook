@@ -1,3 +1,0 @@
-plugin.tx_guestbook_pi1 {
-  file.templateFile = EXT:tx_guestbook/pi1/guestbook_template.tmpl
-}
